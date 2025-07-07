@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "name": "Космический квантовый нано-венерианский сэндвич",
+  "order": {
+    "createdAt": "2024-04-20T15:45:23.129Z",
+    "ingredients": {
+      "calories": 721,
+      "carbohydrates": 92,
+      "fat": 31,
+      "image": "https://code.s3.yandex.net/react/code/bun-02.png",
+      "image_large": "https://code.s3.yandex.net/react/code/bun-02-large.png",
+      "image_mobile": "https://code.s3.yandex.net/react/code/bun-02-mobile.png",
+      "name": "Квантовая булка N1-X3",
+      "price": 1099,
+      "proteins": 53,
+      "type": "bun",
+      "_id": "643d69a5c3f7b9001cfa093d"
+    },
+    "_id": "6623c34497ede0001d066c4b",
+    "name": "Космический квантовый нано-венерианский сэндвич",
+    "number": 42187,
+    "owner": {
+      "email": "spacechef@quantumkitchen.com",
+      "name": "QuantumChef",
+      "createdAt": "2024-04-03T14:23:55.891Z",
+      "updatedAt": "2024-04-12T16:18:33.724Z"
+    },
+    "price": 3799,
+    "status": "done",
+    "updatedAt": "2024-04-20T15:45:24.552Z"
+  }
+}

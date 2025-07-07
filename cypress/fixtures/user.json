@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "accessToken": "quantum_token_xyz",
+  "refreshToken": "stellar_refresh_abc",
+  "user": {
+    "email": "starship.commander@galactic-grill.space",
+    "name": "CommanderNova"
+  }
+}

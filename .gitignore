@@ -1,8 +1,4 @@
 node_modules
 .env
 .idea
-README.md
-cypress
-src/services/slices/constructorSlice/constructorSlice.test.ts
-src/services/store.test.ts
 dist
